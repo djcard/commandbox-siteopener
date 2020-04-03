@@ -38,12 +38,10 @@
     ],
     "contributors":[],
     "dependencies":{
-        "commandbox-siteopener":"git://github.com/djcard/commandbox-siteopener.git"
     },
     "devDependencies":{},
     "installPaths":{
-        "testbox":"testbox/",
-        "commandbox-siteopener":"commandbox-siteopener/"
+        "testbox":"testbox/"
     },
     "scripts":{},
     "testbox":{
